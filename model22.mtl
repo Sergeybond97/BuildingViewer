@@ -2,7 +2,7 @@
 # File Created: 30.03.2019 14:23:45
 
 newmtl wood2_2
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -16,7 +16,7 @@ newmtl wood2_2
 	map_Kd \..\textures\wood2_2.jpg
 
 newmtl door_furniture
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -42,7 +42,7 @@ newmtl roof1
 	map_Kd \..\textures\roof1.jpg
 
 newmtl woodplanks4_2
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -56,7 +56,7 @@ newmtl woodplanks4_2
 	map_Kd \..\textures\woodplanks4_2.jpg
 
 newmtl woodplanks4
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -70,7 +70,7 @@ newmtl woodplanks4
 	map_Ka \..\textures\woodplanks4.jpg
 
 newmtl woodplanks2
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -84,7 +84,7 @@ newmtl woodplanks2
 	map_Kd \..\textures\woodplanks2.jpg
 
 newmtl wood_floor2
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -98,7 +98,7 @@ newmtl wood_floor2
 	map_Kd \..\textures\wood_floor2_d.jpg
 
 newmtl wood1_1
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -112,7 +112,7 @@ newmtl wood1_1
 	map_Kd \..\textures\wood1_1.jpg
 
 newmtl stucco1
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -126,7 +126,7 @@ newmtl stucco1
 	map_Kd \..\textures\stucco1.jpg
 
 newmtl plaster1
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -140,7 +140,7 @@ newmtl plaster1
 	map_Kd \..\textures\plaster1_d.jpg
 
 newmtl wood3
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -154,7 +154,7 @@ newmtl wood3
 	map_Kd \..\textures\wood3.jpg
 
 newmtl divankoja_base
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -166,7 +166,7 @@ newmtl divankoja_base
 	Ke 0.0000 0.0000 0.0000
 
 newmtl divankoja_podushki
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -178,7 +178,7 @@ newmtl divankoja_podushki
 	Ke 0.0000 0.0000 0.0000
 
 newmtl divankoja_legs
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -190,7 +190,7 @@ newmtl divankoja_legs
 	Ke 0.0000 0.0000 0.0000
 
 newmtl P_table_6_chairs_wood
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -202,7 +202,7 @@ newmtl P_table_6_chairs_wood
 	Ke 0.0000 0.0000 0.0000
 
 newmtl P_table_6_chairs_fabric
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -214,7 +214,7 @@ newmtl P_table_6_chairs_fabric
 	Ke 0.0000 0.0000 0.0000
 
 newmtl glass2
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -226,7 +226,7 @@ newmtl glass2
 	Ke 0.0000 0.0000 0.0000
 
 newmtl kitchen_down_stoleshnica
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -238,7 +238,7 @@ newmtl kitchen_down_stoleshnica
 	Ke 0.0000 0.0000 0.0000
 
 newmtl kitchen_down_fasad
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -252,7 +252,7 @@ newmtl kitchen_down_fasad
 	map_Kd \..\textures\wood5.jpg
 
 newmtl kitchen_down_base
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -264,7 +264,7 @@ newmtl kitchen_down_base
 	Ke 0.0000 0.0000 0.0000
 
 newmtl kitchen_up_fasad
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -278,7 +278,7 @@ newmtl kitchen_up_fasad
 	map_Kd \..\textures\wood5.jpg
 
 newmtl kitchen_up_base
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -290,7 +290,7 @@ newmtl kitchen_up_base
 	Ke 0.0000 0.0000 0.0000
 
 newmtl kitchen_furniture
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -302,7 +302,7 @@ newmtl kitchen_furniture
 	Ke 0.0000 0.0000 0.0000
 
 newmtl kitchen_down_chrome
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -314,7 +314,7 @@ newmtl kitchen_down_chrome
 	Ke 0.0000 0.0000 0.0000
 
 newmtl kitchen_down_rakovina
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -326,7 +326,7 @@ newmtl kitchen_down_rakovina
 	Ke 0.0000 0.0000 0.0000
 
 newmtl O_table_4_chairs_glass
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -338,7 +338,7 @@ newmtl O_table_4_chairs_glass
 	Ke 0.0000 0.0000 0.0000
 
 newmtl O_table_4_chairs_wood
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
@@ -350,7 +350,7 @@ newmtl O_table_4_chairs_wood
 	Ke 0.0000 0.0000 0.0000
 
 newmtl O_table_4_chairs_plastic
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
