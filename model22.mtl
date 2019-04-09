@@ -28,7 +28,7 @@ newmtl door_furniture
 	Ke 0.0000 0.0000 0.0000
 
 newmtl roof1
-	Ns 10.0000
+	Ns 0.0000
 	Ni 1.5000
 	d 1.0000
 	Tr 0.0000
